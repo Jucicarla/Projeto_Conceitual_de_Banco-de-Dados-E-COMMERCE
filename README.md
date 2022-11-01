@@ -1,16 +1,16 @@
 # Projeto_Conceitual_de_Banco-de-Dados-E-COMMERCE
-projeto conceitual do contexto sobre E-Commerce - Desafio DIO
 
-Modelando–EscopodeE-commerce
+Atividade prática para aplicar os conceitos da Modelagem de Banco de Dados, escolher a ferramenta de modelagem para realizar o desafio, foi escolhido o uso da ferramenta Mysql Workbench para a modelagem.
+
+projeto conceitual do contexto sobre E-Commerce - Desafio DIO
 
 
 Escopo: Venda de Produtos
 
-Elicitação de Requisitos
+Elicitação de Requisitos:
 
 Narrativa - Produto
-• Os produtos são vendidos por uma única plataforma online.
-Contudo, estes podem ter vendedores distintos (terceiros)
+• Os produtos são vendidos por uma única plataforma online. Contudo, estes podem ter vendedores distintos (terceiros)
 
 • Cada produto possui um fornecedor
 
