@@ -1,15 +1,15 @@
-# Projeto_Conceitual_de_Banco-de-Dados-E-COMMERCE
+# Projeto_Conceitual_de_Banco-de-Dados-E-COMMERCE - Desafio DIO
 
-Atividade prática para aplicar os conceitos da Modelagem de Banco de Dados, escolher a ferramenta de modelagem para realizar o desafio, foi escolhido o uso da ferramenta Mysql Workbench para a modelagem.
+Atividade prática para aplicar os conceitos da Modelagem de Banco de Dados, foi escolhido o uso da ferramenta Mysql Workbench para a modelagem.
 
-projeto conceitual do contexto sobre E-Commerce - Desafio DIO
-
+Descrição do Desafio:
 
 Escopo: Venda de Produtos
 
 Elicitação de Requisitos:
 
 Narrativa - Produto
+
 • Os produtos são vendidos por uma única plataforma online. Contudo, estes podem ter vendedores distintos (terceiros)
 
 • Cada produto possui um fornecedor
@@ -22,13 +22,11 @@ Narrativa - Cliente
 
 • O Endereço do cliente irá determinar o valor do frete
 
-• Um cliente pode comprar mais de um pedido. Este tem um período
-de carência para devolução do produto
+• Um cliente pode comprar mais de um pedido. Este tem um período de carência para devolução do produto
 
 Narrativa – Pedido
 
-• O pedidos são criados por clientes e possueminformações de
-compra, endereço e status da entrega
+• O pedidos são criados por clientes e possueminformações de compra, endereço e status da entrega
 
 • Um produto ou mais compoem o pedido
 
@@ -36,10 +34,8 @@ compra, endereço e status da entrega
 
 Refine o modelo apresentado acrescentando os seguintes pontos:
 
-• Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não
-pode ter as duas informações
+• Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações
 
-• Pagamento – Pode ter cadastradomais de uma forma de
-pagamento
+• Pagamento – Pode ter cadastradomais de uma forma de pagamento
 
 • Entrega – Possui status e código de rastreio
